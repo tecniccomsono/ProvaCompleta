@@ -1,6 +1,6 @@
 # Projeto ProvaCompleta
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="https://i.ibb.co/S95gM37/image.png" alt="Imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 

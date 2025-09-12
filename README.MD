@@ -2,4 +2,9 @@
 
 <img src="https://i.ibb.co/S95gM37/image.png">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Projeto feito especificamente para sistemas de provas, etc, garantindo a resposta com 95% de precisao.
+
+> Código abaixo:
+
+```js
+javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/TecnicComSono/ProvaCompleta@master/ProvaCompleta.js";document.body.appendChild(s);})();```

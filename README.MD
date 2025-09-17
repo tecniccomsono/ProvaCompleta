@@ -12,5 +12,5 @@ javascript:(function(){var s=document.createElement('script');s.src="https://cdn
 
 > Usa o de cima, o de baixo está em desenvolvimento
 ```js
-javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/TecnicComSono/ProvaCompleta@master/yr1.js";document.body.appendChild(s);})();
+javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/TecnicComSono/ProvaCompleta@master/yr6.js";document.body.appendChild(s);})();
 ```

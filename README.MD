@@ -7,4 +7,9 @@
 > Código abaixo:
 
 ```js
-javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/TecnicComSono/ProvaCompleta@master/ProvaCompleta.js";document.body.appendChild(s);})();```
+javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/TecnicComSono/ProvaCompleta@master/ProvaCompleta.js";document.body.appendChild(s);})();
+```
+
+```js
+javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/TecnicComSono/ProvaCompleta@master/yr1.js";document.body.appendChild(s);})();
+```
